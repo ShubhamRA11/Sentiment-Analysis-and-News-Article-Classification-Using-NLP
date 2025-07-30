@@ -1,1 +1,1 @@
-# Sentiment-Analysis-and-News-Article-Classification-Using-NLP
+#### Developed a machine learning classification model that can predict the sentiment of IMDb movie reviews. And Also created another classification model that can automatically categorize news articles into different predefined categories.
